@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>Федоренко Лиза</h1>
+      <ul>
+        <li>люблю играть в настольные игры</li>
+        <li>катаюсь на скейте</li>
+        <li>делаю сайты</li>
+      </ul>
+      <img src="https://img.freepik.com/free-photo/young-people-playing-charades-board-games-with-figurines-rolling-dices-for-cards-game-men-and-women-enjoying-strategy-competition-to-guess-card-for-entertainment-and-fun-close-up_482257-42184.jpg?w=1060&t=st=1675586949~exp=1675587549~hmac=20db50b66623cbda9c820454f1f9077a60a8e56a4b672b9f648c390f40a36184" width="830px" height="550px"/>
+      <img src="https://img.freepik.com/premium-vector/board-games-adults-funny-games-isometric-cards-backgammon-chess-mahjong-vector-illustration-isometric-board-game-3d-playtime-entertainment_80590-11446.jpg?w=1060" width="830px" height="300px"/>
+      <img src="https://img.freepik.com/premium-psd/teenager-with-mock-up-skateboard-at-the-pier_23-2149255090.jpg?w=826">
+      <img src="https://img.freepik.com/free-photo/coding-man_1098-18084.jpg?w=900&t=st=1675587218~exp=1675587818~hmac=3299fef5a8d1b48a89d2124d910e664e80c1a9db0ec0890512d696187f4b11e8">
+    </main>
+    <footer>
+      <a class="social" href=""><img src="/uploads/2021/04/social1_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="/uploads/2021/04/social3_0_1618254571.png" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
