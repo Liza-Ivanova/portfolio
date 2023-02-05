@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+.link-header{
+    color: rgb(153, 35, 243);
+}
+.link-nav{
+    color: rgb(153, 35, 243);
+}
+h1{
+    text-align: center;
+    text-shadow: 7px 5px 2px rgb(168, 168, 168);
+    font-size: 35px;
+}
+.social{
+    transform: scale(2);
+}
+.link-nav:hover{
+    border-bottom: 2px solid rgb(153, 35, 243);
+    transition: 0.2s linear;
+}
+h1:hover{
+    font-size: 40px;
+    transition: 0.7s linear;
+}
+.link-header:hover{
+    border-bottom: 2px solid rgb(153, 35, 243);
+    transition: 0.2s linear;
+}
+.link-text{
+    color: rgb(153, 35, 243);
+}
+.link-text:hover{
+    border-bottom: 2px solid rgb(153, 35, 243);
+    transition: 0.2s linear;
+}
